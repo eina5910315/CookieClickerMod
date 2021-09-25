@@ -1,0 +1,11 @@
+{
+	"Name": "Auto Click Mod",
+	"ID": "auto click mod",
+	"Author": "eina",
+	"Description": "自動クリックMod",
+	"ModVersion": 1.0,
+	"GameVersion": 2.031,
+	"Date": "25/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}

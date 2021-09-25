@@ -1,0 +1,11 @@
+{
+	"Name": "Grimoire Mod",
+	"ID": "grimoire mod",
+	"Author": "eina",
+	"Description": "グリモアMod",
+	"ModVersion": 1.0,
+	"GameVersion": 2.031,
+	"Date": "25/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}

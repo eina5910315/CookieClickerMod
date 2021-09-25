@@ -1,0 +1,11 @@
+{
+	"Name": "cheat tool",
+	"ID": "cheat tool",
+	"Author": "eina",
+	"Description": "チート実行用Mod",
+	"ModVersion": 1.0,
+	"GameVersion": 2.031,
+	"Date": "25/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}

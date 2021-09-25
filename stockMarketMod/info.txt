@@ -1,0 +1,11 @@
+{
+	"Name": "Stock Market Mod",
+	"ID": "stock market mod",
+	"Author": "eina",
+	"Description": "株式市場Mod",
+	"ModVersion": 1.0,
+	"GameVersion": 2.031,
+	"Date": "25/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}

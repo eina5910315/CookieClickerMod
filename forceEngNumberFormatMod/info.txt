@@ -1,0 +1,11 @@
+{
+	"Name": "Force Eng Number Format Mod",
+	"ID": "force eng number format mod",
+	"Author": "eina",
+	"Description": "強制英語省略表示",
+	"ModVersion": 1.0,
+	"GameVersion": 2.031,
+	"Date": "25/09/2021",
+	"Dependencies": [],
+	"Disabled": 1
+}
